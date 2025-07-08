@@ -1,0 +1,97 @@
+{
+  "contact": {
+    "name": "Amr Ehab Mokhtar",
+    "title": "Engineering Undergraduate",
+    "address": "14 Gamal El Din Afify, Nasr City, Cairo",
+    "email": "amrbusiness.ab@gmail.com",
+    "phone": "+1234567890",
+    "linkedin": "https://www.linkedin.com/in/amr-ehab-mokhtar-2418a422b/",
+    "github": "https://github.com/shnorbs"
+  },
+    "education": [
+        {
+            "degree": "Bachelor of Computer Engineering",
+            "institution": "Cairo University",
+            "location": "Giza, Egypt",
+            "duration": "2012 - 2027",
+            "description": "GPA: 3.19 | Major: Computer Engineering"
+        }
+    ],
+    "experience": [
+       {
+           "position": "Senior Software Engineer",
+           "company": "Tech Corp",
+           "location": "San Francisco, CA",
+           "duration": "Jan 2023 - Present",
+           "description": "Led development of microservices architecture..."
+       }
+    ],
+    "skills": {
+        "programming_languages": [
+            "Python",
+            "JavaScript",
+            "Java",
+            "C++",
+            "C#",
+            "C",
+            "SQL"
+
+        ],
+        "frameworks": [
+           "React",
+           "Django",
+           "Spring Boot"
+        ],
+        "tools": [
+           "Docker",
+           "AWS",
+           "Git"
+        ]
+    },
+    "projects": [
+      {
+        "title": "Event Manager",
+        "subtitle": "Windows Forms application",
+        "technologies": "C# • SQL",
+        "description": "Developed a desktop-based event scheduling and management system with role-based access control. ",
+        "links": [
+          {
+            "text": "🔗 GitHub",
+            "url": "https://github.com/shnorbs/EventManager"
+          }
+        ]
+      },
+
+      {
+        "title": "Process Scheduler Simulator",
+        "subtitle": "System Programming Project",
+        "technologies": "C",
+        "description": "Simulated an advanced OS scheduler (MLFQ) with dynamic memory management",
+        "links": [
+          {
+            "text": "🔗 GitHub",
+            "url": "https://github.com/shnorbs/EventManager"
+          }
+        ]
+      },
+
+      {
+        "title": "Flowchart Simulator",
+        "subtitle": "Basic Flowchart Building tool",
+        "technologies": "C++",
+        "description": "Designed and implemented a simple flowchart simulator enƟrely in C++.",
+        "links": [
+          {
+            "text": "🔗 GitHub",
+            "url": "https://github.com/shnorbs/EventManager"
+          }
+        ]
+      }
+    ],
+        "awards": [
+           {
+               "title": "Best Developer A11ward",
+               "description": "Awarded for outstanding performance in 2023"
+           }
+        ]
+}
